@@ -298,4 +298,4 @@ for å fortelle app runner hvilket container som skal deployes.
 ## Test
 
 * Kjør byggejobben manuelt førte gang gang. Det vil det lages en docker container som pushes til ECR repository. App runner vil lage en service
-* Sjekk at det er dukket opp to container images i ECR. En med en tag som matcher git commit, og en som heter "latest".
+* Sjekk at det er dukket opp to container images i ECR. En med en tag som matcher git commit, og en som heter "latest". :-)
